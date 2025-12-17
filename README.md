@@ -1,5 +1,3 @@
-.
-
 🫁 Pneumonia Detection System (AI Powered)
 
 An AI-based web application that detects Pneumonia from Chest X-ray images using Deep Learning (CNN) and a Streamlit interface.
